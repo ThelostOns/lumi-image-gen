@@ -3,8 +3,8 @@
   "name": "Image Auto Generation",
   "identifier": "image_auto_gen",
   "author": "Yuuki",
-  "github": "https://github.com/your-repo/lumi-image-gen",
-  "homepage": "https://github.com/your-repo/lumi-image-gen",
+  "github": "https://github.com/ThelostOns/lumi-image-gen",
+  "homepage": "https://github.com/ThelostOns/lumi-image-gen",
   "description": "Automatically generates images from <pic prompt=\"...\"> tags in AI replies. Supports ComfyUI (custom workflow upload) and AUTOMATIC1111.",
   "permissions": [
     "chat_mutation",
