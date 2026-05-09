@@ -1,1 +1,0 @@
-# lumi-image-gen
