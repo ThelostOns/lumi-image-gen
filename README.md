@@ -21,7 +21,7 @@ Everything is configured through the **Image Auto Gen** panel in Lumiverse's ext
 In Lumiverse, go to **Settings → Extensions → Install from URL**:
 
 ```
-https://github.com/your-repo/lumi-image-gen
+https://github.com/ThelostOns/lumi-image-gen
 ```
 
 Lumiverse will clone and build the extension. Grant the requested permissions:
